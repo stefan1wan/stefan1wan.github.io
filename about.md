@@ -3,5 +3,6 @@ layout: page
 title: About Me
 ---
 
-### A Master Student in Fudan University
+
+I'm now a master student in Fudan University, and My advisor is Prof. Zhe Zhou.
 
