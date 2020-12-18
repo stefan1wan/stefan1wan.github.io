@@ -6,7 +6,7 @@ tags: Turorial
 author: YX Bi
 ---
 
-# A Tutorial of Hackintosh （Use Opencore)
+# A Tutorial of Hackintosh （Use Opencore)
 ##  This blog is from [Glare Bi](https://github.com/GlareR/Hackintosh-DELL-OptiPlex-7080)(glarebackbluewhale@gmail.com)
 
 
