@@ -6,7 +6,7 @@ tags: Turorial
 ---
 
 # A Tutorial of Hackintosh （Use Opencore)
-##  This blog is from Glare Bi(glarebackbluewhale@gmail.com)
+##  This blog is from [Glare Bi](https://github.com/GlareR/Hackintosh-DELL-OptiPlex-7080)(glarebackbluewhale@gmail.com)
 
 
 ###  Before writing : **"It's not a perfect journey.  Use and cherish."**
