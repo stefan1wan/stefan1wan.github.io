@@ -13,7 +13,8 @@ tags: Turorial
 
 ### Prerequisites
 
-1. ***The most important*** Time and patience.
+1. ***The most important***   
+    Time and patience.
 2. Know your hardware 
     + CPU generation
     + GPU
@@ -22,7 +23,7 @@ tags: Turorial
     + Ethernet chipset
     + Wlan/Bluetooth chipset
     + Audio chipset
-3. A usb flash disk. ***Recommanded the Sandisk Extreme PRO.*** 
+3. A usb flash disk. ***Sandisk Extreme PRO is recommanded.*** 
 4. A mac os .dmg : there are many sources you can find in the  internet. [Recommanded script](https://github.com/corpnewt/gibMacOS)
 5. Python environment.
 
@@ -31,7 +32,8 @@ tags: Turorial
 
     1. Download the Macos use [glibMacOS](https://github.com/corpnewt/gibMacOS). If you use Windows(with python3.x environment), just double click the "glibMacOS.bat", Mac os user click "glibMacOS.command", as this picture, <img src ="/images/posts/Hackintosh/glibMacOS.png" width="355" height="430"> choose the os you want to download and wait for some times, then the os image will be saved in folder "macOS Downloads". *(If the image is too large for you, you can choose type one "R" and downloads the recovery image.)*
     2. Burn the os image into a usb flash disk. Just in "glibMacOS" folder, there is a script named "MakeInstall.bat" , it will help you to divide your usb flash disk into two partitions, and burn the opencore(or clover, depends on what you choose) into the first partition and the os image into the second partition. As pictures shows, type "3o" and then paste the OS image path just copied.<img src ="/images/posts/Hackintosh/burn_usb.png" >
-    <img src =" /images/posts/Hackintosh/burn_image.png" > 
+
+        <img src ="/images/posts/Hackintosh/burn_image.png" >  
     3. Costom your own OpenCore. First delete all the things in first usb partition, and download the lastest [OpenCore package](https://github.com/acidanthera/OpenCorePkg/releases) and copy all files in "x64"(or "I32") folder into the usb flash disk's first partition. And then go into "OC" folder to costom your own OpenCore EFI.
 * **Costom the Opencore**
 
@@ -51,9 +53,9 @@ tags: Turorial
             [**VirtualSMC**](https://github.com/acidanthera/VirtualSMC/releases) : Help us to boot macos.  
             [**Lilu**](https://github.com/acidanthera/Lilu/releases) : It's the patch for many Kexts. 
 
-                **Above is just needed for boot, if you want more function just as audio driver or bettery manager, you need to add more Kexts.**
+                **All above for boot only, if you want more function just as audio driver or bettery manager, you need to add more Kexts.**
 
-                Below is VirtualSMC plugins. (For hardware monitoring)
+                Here are the plugins for VirtualSMC plugins. (For hardware monitoring)
                 * SMCProcessor.kext
                 * SMCSuperIO.kext
                 * SMCBatteryManager.kext
@@ -82,16 +84,16 @@ tags: Turorial
             [**AirportBrcmFixup**](https://github.com/acidanthera/AirportBrcmFixup/releases)  
             [**BrcmPatchRAM**](https://github.com/acidanthera/BrcmPatchRAM/releases)
             * Something else  
-            [**NVMeFix**](https://github.com/acidanthera/NVMeFix/releases) : Just as the name.
+            [**NVMeFix**](https://github.com/acidanthera/NVMeFix/releases) : The meaning is the same as the name.  
             [**CpuTscSync**](https://github.com/acidanthera/CpuTscSync/releases) : For some Intel HEDT to syncing TSC  
             
         * **SSDTs** (Must be placed in /EFI/OC/ACPI)  
             * There is a picture tell you what you needs.  
             * And a [script](https://github.com/corpnewt/SSDTTime) to build SSDTs.
-        ![]( /images/posts/Hackintosh/acpi.png)![]( /images/posts/Hackintosh/ssdt_laptop.png)![]( /images/posts/Hackintosh/ssdt_laptop2.png)  
+        ![]( /images/posts/Hackintosh/ACPI.png)![]( /images/posts/Hackintosh/ssdt_laptop.png)![]( /images/posts/Hackintosh/ssdt_laptop2.png)  
             
     3. Modify the config.plist  
-        ***This term cost lots of time and you need to keep patient.***
+        ***This phase takes a lot of time and you need patience.***
         1. First you need to copy the sample.plist from Docs (One folder of your downloaded OpenCore package.) folder into your USB's first partition's EFI folder and rename as config.plist.  
         2. Then you need a plist editor, [**ProperTree**](https://github.com/corpnewt/ProperTree) is recommanded.
         3. Open the config.plist with ProperTree. **Add what have gathered files into config.plist**. In Windows, use Ctrl+Shift+R to choose "OC" folder, MacOS use Command+Shift+R.
@@ -121,7 +123,7 @@ tags: Turorial
         * SATA Mode: AHCI
 
     3. Start installation  
-    * If you can get here correctly, the graphical installation cannot beat you.  
+    * If you can get it right here, then the graphical installation won't bother you.  
     * What you need pay attention is that before start installation, you need to erase your Disk to APFS type.
 * **After installation**  
     [Opencore Configurator](https://mackie100projects.altervista.org/opencore-configurator/) is needed for this part. Another tool named [hackintool](https://github.com/headkaze/Hackintool/releases/tag/3.4.9) is also recommanded.  
