@@ -3,6 +3,7 @@ layout: post
 title: Tutorial of Hackintosh
 date: 2020-12-18
 tags: Turorial
+author: YX Bi
 ---
 
 # A Tutorial of Hackintosh （Use Opencore)

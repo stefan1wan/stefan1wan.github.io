@@ -3,6 +3,7 @@ layout: post
 title: LITE Kernel RDMA
 date: 2020-12-10
 tags: PapersRead
+author: Stefan Wan
 ---
 
 # Paper Read: LITE Kernel RDMA

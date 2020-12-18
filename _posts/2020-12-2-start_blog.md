@@ -3,6 +3,7 @@ layout: post
 title: The first blog
 date: 2020-12-2
 tags: HelloWorld
+author: Stefan Wan
 ---
 
 # Hello world
