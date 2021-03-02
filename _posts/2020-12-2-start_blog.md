@@ -1,12 +1,12 @@
 ---
 layout: post
-title: The first blog
+title: My first blog
 date: 2020-12-2
 tags: HelloWorld
 author: Stefan Wan
 ---
 
-# Hello world
+<!-- # Hello world -->
 
 <!-- ![](/images/avatar.jpg) -->
 <img src="/images/avatar.jpg" style="zoom:30%" />
