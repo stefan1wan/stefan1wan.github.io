@@ -18,10 +18,10 @@ This is the first work focus on a side-channel attack through the congestion in 
 ## Two Threat Scenarios
 ![](/images/posts/inv_probe/topology.png)
 
-#### PCH: NVMe SSD & NIC
+### PCH: NVMe SSD & NIC
 PCH (Platform Controller Hub) was designed to connect multiple relatively slow devices, like hard disks, sound cards, and NICs. We assume that an NVMe SSD card and a NIC are both connected by PCH, so the attacker can repeatedly access the SSD by [SPDK](https://spdk.io/) to congest PCH and log the intervals between every 2 accession. If a victim is browsing a website at the same time, the traffic transferred back by NIC will increase the intervals logged by our attacker. If we train the different logs with deep learning, we can distinguish the different websites which the victims are browsing. 
 
-#### PCIe Switch: RDMA NIC & GPU
+### PCIe Switch: RDMA NIC & GPU
 PCIe Switch allows several devices connected to one interface offered by CPU. We assume that an RDMA NIC and a GPU are connected by a PCIe switch. The attacker will repeatedly access memory through another machine's RDMA NIC. Therefore, traffic transferred on PCIe switch will be discovered. Victim's activities which related to GPU, like browsing website, training models and input password, will be perceived.
 
 ## Four Specific Experiment

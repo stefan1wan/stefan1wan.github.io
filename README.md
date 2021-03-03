@@ -7,6 +7,6 @@ From https://github.com/leopardpan/leopardpan.github.io/
 Add posts in /_posts and pics in /images
 $ bundle exec jekyll serve --watch --drafts
 git add .
-git commit -m " "
+git commit -m ""
 git push origin main
 ```
