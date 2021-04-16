@@ -33,7 +33,7 @@ We can infer the congestion state from many CMS events, and the following are so
 * SINK_STARVED: discarded packets due to starvation
 * STALL: stalled  due to lacking credits
 
-The experiment evaluation can be found on our [paper](a.b.c).
+The experiment evaluation can be found on our [paper](https://arxiv.org/pdf/2103.04533.pdf).
 
 ## Reference
 1. [Intel® Xeon® Processor Scalable Memory Family Uncore Performance Monitoring](http://kib.kiev.ua/x86docs/Intel/PerfMon/336274-001.pdf) 
