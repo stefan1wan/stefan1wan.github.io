@@ -2,7 +2,7 @@
 layout: post
 title: My first blog
 date: 2020-12-2
-tags: HelloWorld
+tags: Misc
 author: Stefan Wan
 ---
 

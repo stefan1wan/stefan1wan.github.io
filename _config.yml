@@ -5,14 +5,15 @@ description: Master Student in Computer Science / System Security
 # 头像里面的标题
 avatarTitle: Stefan Wan
 # 头像里面的描述
-avatarDesc: CS Master Student / System Security
+avatarDesc: CS Graduate Student / System Security
 url: "stefan1wan.github.io"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
 # Comment
-#comment:
+# comment:
+#     Utterances: xxxxxxx
     # livere: xxxxxxxxxxx
     # disqus: xxxxxx
     # uyan: xxxxxxxxx
@@ -56,13 +57,13 @@ textColor: #FF0000
 cover_color: clear
 
 # The blog button should not be removed.
-# blog_button:
-#     title: Main Page
+blog_button:
+    title: Home
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: Post, description: archive, url: '/archive'}   
-    - {title: Title, description: tags, url: '/tags'}      
+    - {title: Posts, description: archive, url: '/archive'}   
+    - {title: Tags, description: tags, url: '/tags'}      
     # - {title: support, description: support, url: '/support'}      
     - {title: About Me, description: about, url: '/about'}   
     
