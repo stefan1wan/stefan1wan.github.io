@@ -2,7 +2,7 @@
 layout: post
 title: Tutorial of Hackintosh
 date: 2020-12-18
-tags: Turorial
+tags: Tutorial
 author: YX Bi
 ---
 
