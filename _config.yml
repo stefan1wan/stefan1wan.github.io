@@ -9,7 +9,7 @@ avatarDesc: /dev/side_channel
 url: "stefan1wan.github.io"
 
 # 博客是否自动生成目录，false为不生成
-enableToc: true
+enableToc: True
 
 # Comment
 # comment:
@@ -23,10 +23,11 @@ social:
     # weibo: xxx
     github: stefan1wan
     mail: stefanwanfdu@icloud.com
+    twitter: stefan1wan
     # zhihu: xxxx
     # juejin: xxx
     # jianshu: xxxxx
-    # twitter: 
+    
     
 
 
@@ -62,10 +63,12 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:
+    
     - {title: Posts, description: archive, url: '/archive'}   
     - {title: Tags, description: tags, url: '/tags'}      
-    # - {title: support, description: support, url: '/support'}      
-    - {title: About Me, description: about, url: '/about'}   
+    # - {title: support, description: support, url: '/support'}    
+    - {title: About Me, description: about, url: '/about'}    
+
     
 
 # Pagination
