@@ -4,13 +4,25 @@ layout: default
 <head>
   <link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
 </head>
+
 <article class="post-container post-container--single" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
     <div class="post-meta">
       <time datetime="{{page.date | date: date_to_xmlschema}}" itemprop="datePublished" class="post-meta__date date">{{page.date | date: "%F"}}</time>
       <span class="post-meta__tags tags"></span>
     </div>
+
+
     <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">
+    <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      {%- assign date_format = site.minima.date_format | default: '%b %-d, %Y' -%}
+    
+      {%- if page.last_modified_at -%}
+          Last updated: {{ page.last_modified_at | date: date_format }}
+      {%- endif -%}
+    </time>
+
   </header>
 
   <section class="post">
