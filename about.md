@@ -4,8 +4,8 @@ title: Junpeng(Stefan) Wan
 last_modified_at: 2022-02-15 8:30:00 +0000
 ---
 
-Now I am a Master's Student at Fudan University, and my supervisor is Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm).
-Before that, I got a B.S degree from Fudan at 2019. I'm also a member of CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars) at Fudan.
+Now I am a Master's Student at [Fudan University](https://www.fudan.edu.cn/en/), and my supervisor is Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm).
+Before that, I got a B.S degree from Fudan at 2019. I'm also a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
 
 ### Publications
 + (Oakland’22) **Junpeng Wan**, Yanxiang Bi, Zhe Zhou, Zhou Li. MeshUp: Stateless Cache Side-channel Attack on CPU Mesh. [[**paper**]](/files/MeshUp.pdf) 
