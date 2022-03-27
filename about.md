@@ -12,18 +12,17 @@ Before that, I got a B.S degree from Fudan at 2019. I'm also a member of CTF tea
 + (Oakland’21) Mingtian Tan\*, **Junpeng Wan**\*, Zhe Zhou, Zhou Li. Invisible Probe: Timing Attacks with PCIe Congestion Side-channel. [[**paper**]](/files/InvisibleProbe.pdf) [[**code**]](https://github.com/stefan1wan/InvisibleProbe) [[**talk**]](https://www.youtube.com/watch?v=acmecpVLBKk)
 
 ### Work Experience
-+ (Fudan University) Teaching Assistant of courses: *Software Security*, *Operating System*, *Computer Introduction and Architecture*, and *Information System Security*.
++ (2019.9-2022.1) [**Fudan University**](https://www.fudan.edu.cn/en/). Teaching Assistant of courses: *Software Security*, *Operating System*, *Computer Introduction and Architecture*, and *Information System Security*.
++ (2019.6–2019.10)[**Tencent**](https://www.tencent.com/en-us/). Intern of Keen Security Lab. 
+<!-- + (Intel) Intern of SSE-WPE-JS Optimization department.
 <span style="color: skyblue;">
-*2019.9-2022.1*</span>
-+ (Tencent) Intern of Keen Security Lab.
-<span style="color: skyblue;">
- *2019.6–2019.10*</span>
-+ (Intel) Intern of SSE-WPE-JS Optimization department.
-<span style="color: skyblue;">
-*start from 2022.2*</span>
+*start from 2022.2*</span> -->
 
 <!-- ### Awards
 +  -->
 
 <!-- 
 + (Students Services) Guanghua Company at Fudan University [2015.10-2019.1] -->
+### News
++ (3/2022) I will join [**EPFL**](https://www.epfl.ch/en/) as a PhD student this September!
++ (2/2022) I joined [**Intel**](https://www.intel.com/content/www/us/en/homepage.html)'s V8 engine optimization group as an Intern. 
