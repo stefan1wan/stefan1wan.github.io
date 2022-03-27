@@ -25,4 +25,4 @@ Before that, I got a B.S degree from Fudan at 2019. I'm also a member of CTF tea
 + (Students Services) Guanghua Company at Fudan University [2015.10-2019.1] -->
 ### News
 + (3/2022) I will join [**EPFL**](https://www.epfl.ch/en/) as a PhD student this September!
-+ (2/2022) I joined [**Intel**](https://www.intel.com/content/www/us/en/homepage.html)'s V8 engine optimization group as an Intern. 
++ (2/2022) I joined [**Intel**](https://www.intel.com/content/www/us/en/homepage.html)'s V8 engine optimization group as an intern. 
