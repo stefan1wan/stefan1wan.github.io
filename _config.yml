@@ -59,13 +59,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: Home
+    title: Blogs
 
 # Navigation buttons in the front page.s
 nav:
     
-    - {title: Posts, description: archive, url: '/archive'}   
-    - {title: Tags, description: tags, url: '/tags'}      
+    - {title: By time, description: archive, url: '/archive'}   
+    - {title: By tags, description: tags, url: '/tags'}      
     # - {title: support, description: support, url: '/support'}    
     - {title: About Me, description: about, url: '/about'}
 
