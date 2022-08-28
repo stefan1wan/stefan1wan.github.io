@@ -1,11 +1,11 @@
 # Basic
-title: Junpeng(Stefan) Wan 万俊鹏
+title: Junpeng Wan 万俊鹏
 subtitle: Blog
 description: Computer Systems & Security
 # 头像里面的标题
-avatarTitle: Stefan
+avatarTitle: Junpeng
 # 头像里面的描述
-avatarDesc: /dev/side_channel
+avatarDesc: Welcom from Junpeng
 url: "stefan1wan.github.io"
 
 # 博客是否自动生成目录，false为不生成
@@ -67,9 +67,8 @@ nav:
     - {title: Posts, description: archive, url: '/archive'}   
     - {title: Tags, description: tags, url: '/tags'}      
     # - {title: support, description: support, url: '/support'}    
-    - {title: About Me, description: about, url: '/about'}    
+    - {title: About Me, description: about, url: '/about'}
 
-    
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
