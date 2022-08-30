@@ -3,7 +3,7 @@ layout: post
 title: Invisible Probe
 date: 2021-3-2
 tags: Research
-author: Stefan Wan
+author: Junpeng Wan
 ---
 
 # Invisible Probe: Timing Attacks with PCIe Congestion Side-channel

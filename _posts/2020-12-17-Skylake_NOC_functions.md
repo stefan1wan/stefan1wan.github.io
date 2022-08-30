@@ -3,7 +3,7 @@ layout: post
 title: The Network-On-Chip Structure of Skylake and Congestion Monitoring
 date: 2021-3-3
 tags: Research
-author: Stefan Wan
+author: Junpeng Wan
 ---
 
 # The Network-On-Chip Structure of Skylake and Congestion Monitoring

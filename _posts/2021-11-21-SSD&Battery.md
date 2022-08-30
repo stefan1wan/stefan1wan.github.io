@@ -3,7 +3,7 @@ layout: post
 title: Change SSD and Battery for my old MBP
 date: 2021-11-20
 tags: Tutorial
-author: Stefan Wan
+author: Junpeng Wan
 ---
 
 ## Intro

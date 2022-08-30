@@ -3,7 +3,7 @@ layout: post
 title: GDB Basic Commands
 date: 2019-10-31
 tags: Tutorial
-author: Stefan Wan
+author: Junpeng Wan
 ---
 
 # GDB--Basic Commands

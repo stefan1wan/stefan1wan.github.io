@@ -3,7 +3,7 @@ layout: post
 title: Mesh Side-Channel Attack
 date: 2021-10-8
 tags: Research
-author: Stefan Wan
+author: Junpeng Wan
 ---
 
 # Mesh Side-Channel Attack
