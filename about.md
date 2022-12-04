@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Junpeng Wan
-last_modified_at: 2022-08-28 8:30:00 +0000
+last_modified_at: 2022-12-4 8:30:00 +0000
 ---
 Currently, I am a PhD Student at [École polytechnique fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/). I earned my Bachelor dgree and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under mentor of Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm). I'm also a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
 
@@ -18,7 +18,7 @@ Currently, I am a PhD Student at [École polytechnique fédérale de Lausanne(EP
     + This project is directed by Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm) and completed in cooperation with [Hailong Nan](https://github.com/hailongeric).
 
 ### Work Experience
-+ (2022.9-) [**EPFL**](https://www.epfl.ch/en/). Teaching Assistant: *Introduction of Operating Systems*.
++ (2022.9-2023.1) [**EPFL**](https://www.epfl.ch/en/). Teaching Assistant: *Introduction of Operating Systems*.
 + (2019.9-2022.1) [**Fudan University**](https://www.fudan.edu.cn/en/). Teaching Assistant of courses: *Software Security*, *Operating System*, *Computer Introduction and Architecture*, and *Information System Security*.
 + (2019.6–2019.10) [**Tencent**](https://www.tencent.com/en-us/). Intern of Keen Security Lab. 
 + (2022.2-2022.6) [**Intel**](https://www.intel.com). Intern of SSE-WPE-JS Optimization department at Shanghai.
