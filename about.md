@@ -12,7 +12,8 @@ Currently, I am a PhD Student at [École polytechnique fédérale de Lausanne(EP
 + (Oakland’22) **MeshUp: Stateless Cache Side-channel Attack on CPU Mesh.** 
   * **Junpeng Wan**, Yanxiang Bi, Zhe Zhou, Zhou Li. 
   * [[**paper**]](/files/MeshUp.pdf) [[**code**]](https://github.com/stefan1wan/MeshUp) [[**slides**]](/files/318-MeshUp.pptx)
-+ (OSDI’ 23) Zhe Zhou, Yanxiang Bi, **Junpeng Wan**, Yangfan Zhou, Zhou Li. Userspace Bypass: Accelerating Syscall-intensive Applications.
++ (OSDI’ 23) **Userspace Bypass: Accelerating Syscall-intensive Applications.**
+  * Zhe Zhou, Yanxiang Bi, **Junpeng Wan**, Yangfan Zhou, Zhou Li. 
 + (Master Thesis) **Shadow Kernel Extension Framework.** 
     + This is a framework that benefits future kernel extension constructions. In this framework, an extension will be split into two parts: the first part serves requests in the kernel space running with SFI protection; the second part is in a process that handles other time-insensitive jobs.
     + This project is directed by Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm) and completed in cooperation with [Hailong Nan](https://github.com/hailongeric).
