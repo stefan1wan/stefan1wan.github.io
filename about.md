@@ -4,8 +4,7 @@ title: Junpeng Wan
 last_modified_at: 2022-12-14 8:30:00 +0000
 ---
 
-Currently, I am a PhD Student at [École polytechnique fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/), with broad interests in computer systems and security. I earned my Bachelor dgree and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under mentor of Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm). I'm also a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars)
-
+Currently, I am a PhD Student at [École polytechnique fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/), with broad interests in computer systems and security. I earned my Bachelor dgree and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under mentor of Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm).
 ### Publications
 + (Oakland’21) **Invisible Probe: Timing Attacks with PCIe Congestion Side-channel.** 
   * Mingtian Tan\*, **Junpeng Wan**\*, Zhe Zhou, Zhou Li. 
