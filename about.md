@@ -24,7 +24,7 @@ Currently, I am a PhD Student at [École polytechnique fédérale de Lausanne(EP
 + (2022.9-2023.1) [**EPFL**](https://www.epfl.ch/en/). Teaching Assistant: *Introduction of Operating Systems*.
 + (2019.9-2022.1) [**Fudan University**](https://www.fudan.edu.cn/en/). Teaching Assistant of courses: *Software Security*, *Operating System*, *Computer Introduction and Architecture*, and *Information System Security*.
 + (2019.6–2019.10) [**Tencent**](https://www.tencent.com/en-us/). Intern of Keen Security Lab. 
-+ (2022.2-2022.6) [**Intel**](https://www.intel.com). Intern of SSE-WPE-JS Optimization department at Shanghai. -->
++ (2022.2-2022.6) [**Intel**](https://www.intel.com). Intern of SSE-WPE-JS Optimization department at Shanghai.
 
 ### News
 + (3/2022) I will join [**EPFL**](https://www.epfl.ch/en/) as a PhD student this September.
