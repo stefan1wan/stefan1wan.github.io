@@ -3,7 +3,7 @@ layout: page
 title: Junpeng Wan
 last_modified_at: 2023-04-27 8:30:00 +0000
 ---
-I will be a PhD Student of [Purdue University, West Lafayette](https://www.purdue.edu) from May 2023, working with Prof. [Dave Tian](https://davejingtian.org). I have a broad interests in computer systems and security. Before that, I was a PhD Student at [École polytechnique fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/) for seven months, where I did a semester project at [PARSA](https://parsa.epfl.ch). I earned my Bachelor dgree and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under mentor of Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm). Besides, I was a number of Fudan's CTF team [******(Sixstars)](https://github.com/sixstars).
+I will be a PhD Student of [Purdue University, West Lafayette](https://www.purdue.edu) from May 2023, working with Prof. [Dave Tian](https://davejingtian.org). I have a broad interests in computer systems and security. Before that, I was a PhD Student at [École polytechnique fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/) for seven months, where I did a semester project at [PARSA](https://parsa.epfl.ch). I earned my Bachelor dgree and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under mentor of Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm). Besides, I was a number of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
 
 ### Publications
 + (Oakland’21) **Invisible Probe: Timing Attacks with PCIe Congestion Side-channel.** 
