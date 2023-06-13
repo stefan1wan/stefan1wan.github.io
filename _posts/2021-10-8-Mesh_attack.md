@@ -8,7 +8,7 @@ author: Junpeng Wan
 
 # Mesh Side-Channel Attack
 ## Introduction
-In this blog, I will briefly introduce a research project done by our group which we have submitted to a top conference. This work is now available on Arxiv. You could find further details on [our paper](https://arxiv.org/abs/2103.04533).
+In this blog, I will briefly introduce a research project done by our group which we have submitted to a top conference. You could find further details on [our paper](/files/MeshUp.pdf).
 
 By accessing cachelines to make directed data flow, we could congest the router of Mesh Interconnect of server-grade CPU, where we could get a stable delay. If another program access the memory at the same time and the cachelines are transferred from the router we congested, we could observe a higher dealy. By recording all the delays, our attack is able to deduce the victim program's secret information, for example, the private key of RSA. We attacked the Java program running on JVM, and captured the Square and multiply sequences.
 
