@@ -3,7 +3,8 @@ layout: page
 title: Junpeng Wan
 last_modified_at: 2023-05-24 8:30:00 +0000
 ---
-I am a PhD Student of [Purdue University](https://www.purdue.edu) since May 2023, working with Prof. [Dave Tian](https://davejingtian.org). I have a broad interests in computer security and systems. I earned my Bachelor dgree and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under mentor of Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm). Besides, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
+
+I am a PhD Student of [Purdue University](https://www.purdue.edu) since May 2023, working with Prof. [Dave Tian](https://davejingtian.org). I have a broad interests in computer security and systems. I earned my Bachelor dgree and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under mentor of Prof. [Zhe Zhou](https://www.y-droid.com/zhe/index.html). Besides, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
 
 <!-- Before that, I was a PhD Student at [École polytechnique fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/) for seven months, where I did a semester project at [PARSA](https://parsa.epfl.ch). -->
 
@@ -34,9 +35,10 @@ I am a PhD Student of [Purdue University](https://www.purdue.edu) since May 2023
   + TIFS 2023
 
 <!-- ### Awards
-+ Intel Fellowship 2021
-+ Herbold Scholarship 2023
-+ Outstanding Graduate Award of Shanghai 2022 -->
++ Intel Fellowship 2021, at Fudan University
++ Outstanding Graduate Award of Shanghai 2022, at Fudan University
++ Herbold Scholarship 2023, at Purdue University -->
+
 
 ### News
 + (5/2023) Now, I am a PhD student of Purdue University.
