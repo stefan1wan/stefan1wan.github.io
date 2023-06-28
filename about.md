@@ -17,7 +17,7 @@ I am a PhD Student of [Purdue University](https://www.purdue.edu) since May 2023
   * [[**paper**]](/files/MeshUp.pdf) [[**code**]](https://github.com/stefan1wan/MeshUp) [[**slides**]](/files/318-MeshUp.pptx)
 + (OSDI’ 23) **Userspace Bypass: Accelerating Syscall-intensive Applications.**
   * Zhe Zhou, Yanxiang Bi, **Junpeng Wan**, Yangfan Zhou, Zhou Li. 
-  * [[**paper**]](https://www.usenix.org/presentation/zhou-zhe) [[**code**]](https://github.com/glarer/UserspaceBypass)
+  * [[**paper**]](/files/UserspaceBypass.pdf) [[**code**]](https://github.com/glarer/UserspaceBypass)
 + (Master Thesis) **Shadow Kernel Extension Framework.** 
     + This is a framework that benefits future kernel extension constructions. In this framework, an extension will be split into two parts: the first part serves requests in the kernel space running with SFI protection; the second part is in a process that handles other time-insensitive jobs.
     + This project is directed by Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm) and completed in cooperation with [Hailong Nan](https://github.com/hailongeric).
