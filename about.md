@@ -34,10 +34,10 @@ I am a PhD Student of [Purdue University](https://www.purdue.edu) since May 2023
 + Externel Reviewer
   + TIFS 2023
 
-<!-- ### Awards
+### Awards
 + Intel Fellowship 2021, at Fudan University
 + Outstanding Graduate Award of Shanghai 2022, at Fudan University
-+ Herbold Scholarship 2023, at Purdue University -->
++ Herbold Scholarship 2023, at Purdue University
 
 
 ### News
