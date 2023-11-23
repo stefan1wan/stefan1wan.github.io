@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Junpeng Wan
-last_modified_at: 2023-10-09 8:30:00 +0000
+last_modified_at: 2023-11-23 23:30:00 +0000
 ---
 
 I am a PhD Student of [Purdue University](https://www.purdue.edu) since May 2023, working with Prof. [Dave Tian](https://davejingtian.org). I have a broad interests in computer security and systems. I earned my Bachelor dgree and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under mentor of Prof. [Zhe Zhou](https://www.y-droid.com/zhe/index.html). Besides, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
@@ -31,7 +31,7 @@ I am a PhD Student of [Purdue University](https://www.purdue.edu) since May 2023
 + (2022.2-2022.6) [**Intel**](https://www.intel.com/content/www/us/en/homepage.htm). Intern of SSE-WPE-JS Optimization department at Shanghai.
 
 ### Services
-+ Externel Reviewer
++ Reviewer
   + TIFS 2023
 
 ### Awards
