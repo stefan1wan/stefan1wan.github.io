@@ -13,6 +13,15 @@
           </li>
           {% endif %}
 
+          {% if site.social.scholar %}
+          <!-- Github -->
+          <li class="navigation__item_social">
+            <a href="https://https://scholar.google.com/citations?user={{site.social.scholar}}&hl=en" title="@{{site.social.scholar}} 's Google Scholar" target="_blank">
+              <div class="footer-social-icon" style="background:url(/images/scholar.png);"></div>
+            </a>
+          </li>
+          {% endif %}
+
           {% if site.social.zhihu %}
           <!-- Zhihu -->
           <li class="navigation__item_social">
