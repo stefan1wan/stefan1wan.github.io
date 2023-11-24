@@ -63,7 +63,7 @@ nav:
     - {title: By time, description: archive, url: '/archive'}   
     - {title: By tags, description: tags, url: '/tags'}      
     # - {title: support, description: support, url: '/support'}    
-    - {title: **About Me**, description: about, url: '/about'}
+    - {title: About Me, description: about, url: '/about'}
 
 # The blog button should not be removed.
 blog_button:
