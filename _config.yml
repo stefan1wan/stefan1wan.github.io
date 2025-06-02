@@ -6,7 +6,7 @@ description: Computer Security & Systems
 avatarTitle: Junpeng
 # 头像里面的描述
 avatarDesc: Welcom from Junpeng
-url: "stefan1wan.github.io"
+url: "stefan1wan.github.io/about"
 
 # 博客是否自动生成目录，false为不生成
 enableToc: True
@@ -65,9 +65,9 @@ nav:
     # - {title: support, description: support, url: '/support'}    
     - {title: About Me, description: about, url: '/about'}
 
-# The blog button should not be removed.
-blog_button:
-    title: Blogs
+# # The blog button should not be removed.
+# blog_button:
+#     title: Blogs
 
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
