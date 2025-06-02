@@ -60,10 +60,12 @@ cover_color: clear
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: By time, description: archive, url: '/archive'}   
-    - {title: By tags, description: tags, url: '/tags'}      
-    # - {title: support, description: support, url: '/support'}    
     - {title: About Me, description: about, url: '/about'}
+    - {title: Blogs, description: archive, url: '/archive'}  
+    # - {title: By time, description: archive, url: '/archive'}   
+    # - {title: By tags, description: tags, url: '/tags'}      
+    # - {title: support, description: support, url: '/support'}    
+
 
 # # The blog button should not be removed.
 # blog_button:
