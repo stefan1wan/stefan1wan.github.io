@@ -4,7 +4,8 @@
     <div class="panel-main__inner panel-inverted">
     <div class="panel-main__content">
         <!-- avatar -start -->
-        <div class="ih-item circle effect right_to_left">            
+        <!-- <div class="ih-item circle effect right_to_left">             -->
+          <div class="ih-item circle"> 
             <a href="/about" title="Go to {{ site.title }} 's main page'" class="blog-button">
                 <div class="img"><img src="/images/avatar.jpg" alt="img"></div>
                 <div class="info">
@@ -24,7 +25,7 @@
             </a>
         </div>
         <!-- avatar-end -->
-        <h1 class="panel-cover__title panel-title"><a href="/#blog" title="link to homepage for {{ site.title }}" class="blog-button">{{ site.title }}</a></h1>
+        <h1 class="panel-cover__title panel-title"><a href="/about" title="link to homepage for {{ site.title }}" class="blog-button">{{ site.title }}</a></h1>
         {% if site.subtitle %}
         <span class="panel-cover__subtitle panel-subtitle">{{site.subtitle}}</span>
         {% endif %}
