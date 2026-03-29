@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Junpeng Wan
-last_modified_at: 2025-06-02 16:30:00 +0000
+last_modified_at: 2026-03-28 00:00:00 +0000
 ---
 
 I am a PHD student at [Purdue University](https://www.purdue.edu) working with Prof. [Dave Tian](https://davejingtian.org) since May 2023. My research interests span computer security and systems. Recently, I have been focusing on topics related to GPUs, Rowhammer, and side-channel attacks. I earned both my Bachelor and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under the mentorship of Prof. [Zhe Zhou](https://www.y-droid.com/zhe/index.html). Additionally, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
@@ -9,6 +9,13 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
 <!-- Before that, I was a PhD Student at [École polytechnique fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/) for seven months, where I did a semester project at [PARSA](https://parsa.epfl.ch). -->
 
 ### Publications
+
++ (IEEE SP'26) **GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit**
+  * **Junpeng Wan**, Yanan Guo, Zhi Zhang, Zhuo Li, Dave (Jing) Tian, Zhenkai Zhang.
+
++ (BAR'26, co-located with NDSS) **NVLift: Lifting NVIDIA GPU Assembly to LLVM IR for Downstream Security Applications**
+  * **Junpeng Wan**, Louis Zheng-Hua Tan, Dave (Jing) Tian.
+  * [[**paper**]](files/NVLift.pdf), [[**code**]](https://github.com/purseclab/Sass-LLVM-Lifter), [[**slides**]](/files/NVLift_slides)
 
 + (USENIX Security'25) **HubBub: Contention-Based Side-channel Attacks on USB Hubs**
   * **Junpeng Wan**, Yanxiang Bi, Han Gao, Dave (Jing) Tian.
