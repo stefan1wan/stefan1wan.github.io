@@ -13,9 +13,9 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
 + (IEEE SP'26) **GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit**
   * **Junpeng Wan**, Yanan Guo, Zhi Zhang, Zhuo Li, Dave (Jing) Tian, Zhenkai Zhang.
 
-+ (BAR'26, co-located with NDSS) **NVLift: Lifting NVIDIA GPU Assembly to LLVM IR for Downstream Security Applications**
++ (BAR'26) **NVLift: Lifting NVIDIA GPU Assembly to LLVM IR for Downstream Security Applications**
   * **Junpeng Wan**, Louis Zheng-Hua Tan, Dave (Jing) Tian.
-  * [[**paper**]](files/NVLift.pdf), [[**code**]](https://github.com/purseclab/Sass-LLVM-Lifter), [[**slides**]](/files/NVLift_slides)
+  * [[**paper**]](files/NVLift.pdf), [[**code**]](https://github.com/purseclab/Sass-LLVM-Lifter), [[**slides**]](/files/NVLift_slides.pdf)
 
 + (USENIX Security'25) **HubBub: Contention-Based Side-channel Attacks on USB Hubs**
   * **Junpeng Wan**, Yanxiang Bi, Han Gao, Dave (Jing) Tian.
