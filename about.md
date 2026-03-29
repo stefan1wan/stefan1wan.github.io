@@ -21,6 +21,10 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
   * **Junpeng Wan**, Yanxiang Bi, Han Gao, Dave (Jing) Tian.
   * [[**paper**]](/files/HubBub.pdf) [[**code**]](https://zenodo.org/records/15581471) [[**slides**]](/files/HubBub_slides.pdf)
 
++ (CCS'25) **Hardening Deep Neural Network Binaries against Reverse Engineering Attacks**
+  * Zheng Zhong, Ruoyu Wu, **Junpeng Wan**, Muqi Zou, Dave (Jing) Tian.
+  * [[**paper**]](https://tonitick.github.io/paper/dnnobfuse_cr_v1.pdf) [[**code**]](https://github.com/purseclab/dnnobfuse)
+
 + (OSDI'23) **Userspace Bypass: Accelerating Syscall-intensive Applications.**
   * Zhe Zhou, Yanxiang Bi, **Junpeng Wan**, Yangfan Zhou, Zhou Li. 
   * [[**paper**]](/files/UserspaceBypass.pdf) [[**code**]](https://github.com/glarer/UserspaceBypass) [[**slides**]](/files/UserspaceBypass_slides.pdf)
@@ -52,13 +56,14 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
 + Reviewer:
   + TIFS'23
 + Artifact Reviewer:
-  + USENIX Security'25, DSN'25
+  + USENIX Security'25 (Distinguished Reviewer Award), DSN'25
 
 ### Awards
-
-+ Intel Fellowship 2021, at Fudan University
-+ Outstanding Graduate Award of Shanghai 2022, at Fudan University
 + Herbold Scholarship 2023, at Purdue University
++ Outstanding Graduate Award of Shanghai 2022, at Fudan University
++ Intel Fellowship 2021, at Fudan University
+
+
 
 
 <!-- ### News
