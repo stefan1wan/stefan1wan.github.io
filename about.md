@@ -4,7 +4,7 @@ title: Junpeng Wan
 last_modified_at: 2026-03-28 00:00:00 +0000
 ---
 
-I am a PHD student at [Purdue University](https://www.purdue.edu) working with Prof. [Dave Tian](https://davejingtian.org) since May 2023. My research interests span computer security and systems. Recently, I have been focusing on topics related to GPUs, Rowhammer, and side-channel attacks. I earned both my Bachelor and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under the mentorship of Prof. [Zhe Zhou](https://www.y-droid.com/zhe/index.html). Additionally, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
+I am a PHD student at [Purdue University](https://www.purdue.edu) working with Prof. [Dave Tian](https://davejingtian.org) since May 2023. My research interests span computer security and systems. Recently, I have been focusing on topics related to GPUs, Rowhammer, and side-channel attacks. I visited Clemson University from August 2025 to March 2026, where I worked with Prof. [Zhenkai Zhang](https://zhenkai-zhang.github.io/) on GPU Rowhammer, including [GeForge](https://gddr.fail). I earned both my Bachelor and Master degree from  [Fudan University](https://www.fudan.edu.cn/en/), under the mentorship of Prof. [Zhe Zhou](https://www.y-droid.com/zhe/index.html). Additionally, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars).
 
 <!-- Before that, I was a PhD Student at [École polytechnique fédérale de Lausanne(EPFL)](https://www.epfl.ch/en/) for seven months, where I did a semester project at [PARSA](https://parsa.epfl.ch). -->
 
@@ -12,7 +12,7 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
 
 + (IEEE SP'26) **GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit**
   * **Junpeng Wan**, Yanan Guo, Zhi Zhang, Zhuo Li, Dave (Jing) Tian, Zhenkai Zhang.
-
+  * [[**paper**]](files/GeForge.pdf), [[**website**]](https://gddr.fail/)
 + (BAR'26) **NVLift: Lifting NVIDIA GPU Assembly to LLVM IR for Downstream Security Applications**
   * **Junpeng Wan**, Louis Zheng-Hua Tan, Dave (Jing) Tian.
   * [[**paper**]](files/NVLift.pdf), [[**code**]](https://github.com/purseclab/Sass-LLVM-Lifter), [[**slides**]](/files/NVLift_slides.pdf)
@@ -38,9 +38,9 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
   * [[**paper**]](/files/InvisibleProbe.pdf) [[**code**]](https://github.com/stefan1wan/InvisibleProbe) [[**slides**]](/files/InvisibleProbe.key)
 
 
-<!-- + (Master Thesis) **Shadow Kernel Extension Framework.** 
-    + This is a framework that benefits future kernel extension constructions. In this framework, an extension will be split into two parts: the first part serves requests in the kernel space running with SFI protection; the second part is in a process that handles other time-insensitive jobs.
-    + This project is directed by Prof. [Zhe Zhou](https://cs.fudan.edu.cn/0b/f1/c24865a265201/page.htm) and completed in cooperation with [Hailong Nan](https://github.com/hailongeric). -->
++ (Master Thesis) **Shadow Kernel Extension Framework.** 
+  * This framework facilitates the development of future kernel extensions. It separates each extension into two components: a kernel-space component that serves requests under SFI protection, and a user-space process that handles time-insensitive tasks.
+
 
 ### Work Experience
 
@@ -54,7 +54,7 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
 ### Services
 
 + Reviewer:
-  + TIFS'23
+  + TIFS'23, TDSC'26
 + Artifact Reviewer:
   + USENIX Security'25 (Distinguished Reviewer Award), DSN'25
 
@@ -62,7 +62,6 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
 + Herbold Scholarship 2023, at Purdue University
 + Outstanding Graduate Award of Shanghai 2022, at Fudan University
 + Intel Fellowship 2021, at Fudan University
-
 
 
 
