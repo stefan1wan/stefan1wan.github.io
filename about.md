@@ -45,6 +45,7 @@ I am a PHD student at [Purdue University](https://www.purdue.edu) working with P
 ### Work Experience
 
 + (2023.5-Present) [**Purdue University**](https://www.purdue.edu). Research Assistant.
++ (2025.8-2025.12) [**Clemson University**](https://www.clemson.edu/). Lab Assistant.
 + (2022.9-2023.1) [**EPFL**](https://www.epfl.ch/en/). Research Assistant.
 + (2022.9-2023.1) [**EPFL**](https://www.epfl.ch/en/). Teaching Assistant: *Introduction of Operating Systems*.
 + (2019.9-2022.1) [**Fudan University**](https://www.fudan.edu.cn/en/). Teaching Assistant of courses: *Software Security*, *Operating System*, *Computer Introduction and Architecture*, and *Information System Security*.
