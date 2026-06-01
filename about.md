@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Junpeng Wan
-last_modified_at: 2026-04-12 00:00:00 +0000
+last_modified_at: 2026-06-01 00:00:00 +0000
 ---
 
 I am a PHD student at [Purdue University](https://www.purdue.edu) working with Prof. [Dave Tian](https://davejingtian.org) since May 2023.
-My research interests span computer security and systems. Recently, I have been focusing on topics related to GPUs, Rowhammer, and side-channel attacks.
-From Aug 2025 to Mar 2026, I was a visiting student at Clemson University, where I worked with Prof. [Zhenkai Zhang](https://zhenkai-zhang.github.io/) on GPU Rowhammer, including GeForge. 
+My research interests span computer security and systems. Recently, I have been focusing on topics related to GPUs, Rowhammer, and side-channel attacks. During Summer 2026 (May–August), I am an intern at Microsoft Research, working with [Liangcheng Yu](https://liangchengyu.com/), [Stefan Saroiu](https://stefan.t8k2.com/), and [Alec Wolman](https://alecw.azurewebsites.net/work/default.htm).
+During Fall 2025, I was a visiting student at Clemson University, where I worked with Prof. [Zhenkai Zhang](https://zhenkai-zhang.github.io/) on GPU Rowhammer, including [GeForge](https://gddr.fail/). 
 Before PHD, I earned both my Bachelor and Master degree from Fudan University, working with Prof. [Zhe Zhou](https://www.y-droid.com/zhe/index.html).
 Additionally, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https://github.com/sixstars). 
 
@@ -16,7 +16,7 @@ Additionally, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https:
 
 + (IEEE SP'26) **GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit**
   * **Junpeng Wan**, Yanan Guo, Zhi Zhang, Zhuo Li, Dave (Jing) Tian, Zhenkai Zhang.
-  * [[**paper**]](files/GeForge.pdf), [[**website**]](https://gddr.fail/)
+  * [[**paper**]](files/GeForge.pdf), [[**code**]](https://github.com/stefan1wan/GeForge), [[**slides**]](/files/GeForge_slides.pdf), [[**website**]](https://gddr.fail/)
 
 + (BAR'26) **NVLift: Lifting NVIDIA GPU Assembly to LLVM IR for Downstream Security Applications**
   * **Junpeng Wan**, Louis Zheng-Hua Tan, Dave (Jing) Tian.
@@ -48,8 +48,8 @@ Additionally, I was a member of Fudan's CTF team [\*\*\*\*\*\*(Sixstars)](https:
 
 
 ### Work Experience
-
-+ (2023.5-Present) [**Purdue University**](https://www.purdue.edu). Research Assistant.
+<!-- + (2023.5-Present) [**Purdue University**](https://www.purdue.edu). Research Assistant. -->
++ (2026.5-2026.8) [**Microsoft Research**](https://www.microsoft.com/en-us/research/). Research Intern.
 + (2025.8-2025.12) [**Clemson University**](https://www.clemson.edu/). Lab Assistant.
 + (2022.9-2023.1) [**EPFL**](https://www.epfl.ch/en/). Research Assistant.
 + (2022.9-2023.1) [**EPFL**](https://www.epfl.ch/en/). Teaching Assistant: *Introduction of Operating Systems*.
